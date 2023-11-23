@@ -1,7 +1,9 @@
 # SQL-App-ratings 
 
-A project where i explore and derive insights from a table of app ratings on Apple store. Because I used sqlonlinelite, i had to break the description tables 
-into multiple files before combining them back.
+A project where i use SQL to derive insights from a table of app ratings from Apple store. These insights would be useful for a developer who is unsure of which category 
+he should focus on, if the app should be priced/free etc. 
+
+Because I used sqlonlinelite, i had to break the description tables into multiple files before combining them back.
 
 Some of the Insights I found are:
 1. Paid apps have a higher average rating, 
