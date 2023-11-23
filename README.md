@@ -1,4 +1,6 @@
-# SQL-App-ratings A project where i explore and derive insights from a table of app ratings on Apple store. Because I used sqlonlinelite, i had to break the description tables 
+# SQL-App-ratings 
+
+A project where i explore and derive insights from a table of app ratings on Apple store. Because I used sqlonlinelite, i had to break the description tables 
 into multiple files before combining them back.
 
 Some of the Insights I found are:
